@@ -1,10 +1,10 @@
 {
-  imagem_clube: "https://i0.wp.com/www.bestswim.com.br/wp-content/uploads/2018/11/S_767148-MLB26843823304_022018-O.jpg?fit=400%2C400&ssl=1", 
-  nome_clube: "Minas Tenis", 
-  bairro_clube: "Lourdes", 
-  cidade_clube: "Belo Horizonte", 
-  estado_clube: "MG", 
-  nome_anunciante: "Diogo", 
-  valor_convite: 50.00, 
-  quantidade_convite: = 1
+  "imagem_clube": "https://i0.wp.com/www.bestswim.com.br/wp-content/uploads/2018/11/S_767148-MLB26843823304_022018-O.jpg?fit=400%2C400&ssl=1", 
+  "nome_clube": "Minas Tenis", 
+  "bairro_clube": "Lourdes", 
+  "cidade_clube": "Belo Horizonte", 
+  "estado_clube": "MG", 
+  "nome_anunciante": "Diogo", 
+  "valor_convite": 50.00, 
+  "quantidade_convite": 1
 }
