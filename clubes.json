@@ -1,6 +1,8 @@
-clubes: [
-  {id: 1, nome: 'Minas Tenis', imagem: 'https://i0.wp.com/www.bestswim.com.br/wp-content/uploads/2018/11/S_767148-MLB26843823304_022018-O.jpg?fit=400%2C400&ssl=1', bairro: 'Lourdes', cidade: 'Belo Horizonte', estado: 'MG'}, 
-  {id: 2, nome: 'Pampulha Iate Clube', imagem: 'https://www.pecbrasil.com.br/upload/clubs/9d61891a0c5bfaa24289eeeb000b743d.jpg', bairro: 'Pampulha', cidade: 'Belo Horizonte', estado: 'MG'},
-  {id: 3, nome: 'Barroca Tênis Clube', imagem: 'https://pbs.twimg.com/profile_images/833763905637928964/Hba-Mh3u.jpg', bairro: 'Gutierrez', cidade: 'Belo Horizonte', estado: 'MG'},
-  {id: 4, nome: 'Clube Belo Horizonte', imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-TIGnJq-wojeGW14Xo0c3nvPVj1UovudLn24PN6ZtXMvjAUirw', bairro: 'Pampulha', cidade: 'Belo Horizonte', estado: 'MG'}
-]
+{
+  clubes: [
+    {id: 1, nome: 'Minas Tenis', imagem: 'https://i0.wp.com/www.bestswim.com.br/wp-content/uploads/2018/11/S_767148-MLB26843823304_022018-O.jpg?fit=400%2C400&ssl=1', bairro: 'Lourdes', cidade: 'Belo Horizonte', estado: 'MG'}, 
+    {id: 2, nome: 'Pampulha Iate Clube', imagem: 'https://www.pecbrasil.com.br/upload/clubs/9d61891a0c5bfaa24289eeeb000b743d.jpg', bairro: 'Pampulha', cidade: 'Belo Horizonte', estado: 'MG'},
+    {id: 3, nome: 'Barroca Tênis Clube', imagem: 'https://pbs.twimg.com/profile_images/833763905637928964/Hba-Mh3u.jpg', bairro: 'Gutierrez', cidade: 'Belo Horizonte', estado: 'MG'},
+    {id: 4, nome: 'Clube Belo Horizonte', imagem: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-TIGnJq-wojeGW14Xo0c3nvPVj1UovudLn24PN6ZtXMvjAUirw', bairro: 'Pampulha', cidade: 'Belo Horizonte', estado: 'MG'}
+  ]
+}
