@@ -1,25 +1,34 @@
 {
   "convites": [
     {
-      "id": "1",
+      "imagem_clube": "https://i0.wp.com/www.bestswim.com.br/wp-content/uploads/2018/11/S_767148-MLB26843823304_022018-O.jpg?fit=400%2C400&ssl=1", 
+      "nome_clube": "Minas Tenis", 
+      "bairro_clube": "Lourdes", 
+      "cidade_clube": "Belo Horizonte", 
+      "estado_clube": "MG", 
       "nome_anunciante": "Diogo", 
-      "nome_clube": "Minas Tenis", 
       "valor_convite": "R$50.00", 
-      "quantidade": "2"
+      "quantidade_convite": "1"
     },
     {
-      "id": "2",
-      "nome_anunciante": "Nicolas", 
+      "imagem_clube": "https://i0.wp.com/www.bestswim.com.br/wp-content/uploads/2018/11/S_767148-MLB26843823304_022018-O.jpg?fit=400%2C400&ssl=1", 
       "nome_clube": "Minas Tenis", 
-      "valor_convite": "R$49.90", 
-      "quantidade": "1"
-    },
-    {
-      "id": "3",
+      "bairro_clube": "Lourdes", 
+      "cidade_clube": "Belo Horizonte", 
+      "estado_clube": "MG", 
       "nome_anunciante": "Dirceu", 
+      "valor_convite": "R$55.00", 
+      "quantidade_convite": "10"
+    },
+    {
+      "imagem_clube": "https://i0.wp.com/www.bestswim.com.br/wp-content/uploads/2018/11/S_767148-MLB26843823304_022018-O.jpg?fit=400%2C400&ssl=1", 
       "nome_clube": "Minas Tenis", 
-      "valor_convite": "R$45.00", 
-      "quantidade": "10"
+      "bairro_clube": "Lourdes", 
+      "cidade_clube": "Belo Horizonte", 
+      "estado_clube": "MG", 
+      "nome_anunciante": "Nicolas", 
+      "valor_convite": "R$51.99", 
+      "quantidade_convite": "25"
     }
   ]
 }
