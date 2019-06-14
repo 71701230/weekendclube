@@ -29,6 +29,26 @@
       "nome_anunciante": "Nicolas", 
       "valor_convite": "R$51.99", 
       "quantidade_convite": "25"
+    },
+    {
+      "imagem_clube": "https://www.pecbrasil.com.br/upload/clubs/9d61891a0c5bfaa24289eeeb000b743d.jpg", 
+      "nome_clube": "Pampulha Iate Clube", 
+      "bairro_clube": "Pampulha", 
+      "cidade_clube": "Belo Horizonte", 
+      "estado_clube": "MG", 
+      "nome_anunciante": "Nicolas", 
+      "valor_convite": "R$90,00", 
+      "quantidade_convite": "2"
+    },
+    {
+      "imagem_clube": "https://www.pecbrasil.com.br/upload/clubs/9d61891a0c5bfaa24289eeeb000b743d.jpg", 
+      "nome_clube": "Pampulha Iate Clube", 
+      "bairro_clube": "Pampulha", 
+      "cidade_clube": "Belo Horizonte", 
+      "estado_clube": "MG", 
+      "nome_anunciante": "Rodrigo", 
+      "valor_convite": "R$75,00", 
+      "quantidade_convite": "1"
     }
   ]
 }
